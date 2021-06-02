@@ -9,4 +9,4 @@ GDAL is a translator library for raster and vector geospatial data formats that 
 .. _`Open Source Geospatial Foundation`: http://www.osgeo.org/
 .. _`NEWS`: https://github.com/OSGeo/gdal/blob/v3.3.0/gdal/NEWS
 
-See :ref:`software_using_gdal`
+See :ref:`software_using_gdal` 
